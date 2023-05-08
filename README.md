@@ -17,7 +17,7 @@
     over the heap and prints out all free lists for all five lists on a separate line so that they can 
     easily be distinguished.
 
-## Featre 2: Best Fit Approach to Find Free Block
+## Feature 2: Best Fit Approach to Find Free Block
     An additional feature of this allocator is the use of best fit approach instead of first fit in finding a 
     free block from the free list. The best_fit function is used to find the first list number (0-4) that may 
     have enough memory for the requested block. This operation is constant time because there are a constant (5) lists. 
