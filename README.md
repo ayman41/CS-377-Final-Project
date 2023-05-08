@@ -12,8 +12,10 @@
     The available_memory function returns the total amount of memory in bytes available in the heap across all allocated pages. 
     This involves iterating over the heap vector through all five lists in each page and summing up the sizes. 
     The number_of_free_nodes function operates similarly but takes in an enum exponent argument which specifies 
-    which list to search through. Enum exponent can take the values Seven, Eight, ... , Eleven, which indicate the list that supports 2^(exponent) bytes. Print_free_list function iterates over the heap and prints out all free lists for 
-    all five lists on a separate line so that they can easily be distinguished.
+    which list to search through. Enum exponent can take the values Seven, Eight, ... , Eleven, 
+    which indicate the list that supports 2^(exponent) bytes. Print_free_list function iterates 
+    over the heap and prints out all free lists for all five lists on a separate line so that they can 
+    easily be distinguished.
 
 ## Featre 2: Best Fit Approach to Find Free Block
     An additional feature of this allocator is the use of best fit approach instead of first fit in finding a 
