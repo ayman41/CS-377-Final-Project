@@ -39,4 +39,5 @@
 
 ## Link to Presentation 
 
+Make sure to change quality of video to 720p 
 [Link to presentation and demo of allocator project](https://drive.google.com/file/d/1XMgIs0LOXpN_2-ORC3PfM28NvjjNaxxw/view?usp=sharing)
