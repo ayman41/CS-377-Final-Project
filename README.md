@@ -39,4 +39,4 @@
 
 ## Link to Presentation 
 
-[Link to presentation with demo of allocator](https://drive.google.com/file/d/1XMgIs0LOXpN_2-ORC3PfM28NvjjNaxxw/view?usp=sharing)
+[Link to presentation and demo of allocator project](https://drive.google.com/file/d/1XMgIs0LOXpN_2-ORC3PfM28NvjjNaxxw/view?usp=sharing)
